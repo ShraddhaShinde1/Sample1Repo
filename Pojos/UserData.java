@@ -29,7 +29,7 @@ public class UserData {
 	
 	UserData d= new UserData();
 	/*d.setId(Integer.parseInt(testdata.get("id")));
-	d.setName(testdata.get(name));
+	d.setName(testdata.get(name)1);
 	d.setColor(testdata.get(color));
 	d.setPantone_value(testdata.get(pantone_value));
 	d.setYear(Integer.parseInt(testdata.get("year")));
