@@ -27,7 +27,7 @@ public class CreateUserPage {
 		return total_pages;
 	}
 	public void setTotal_pages(int total_pages) {
-		this.total_pages = total_pages;//siso
+		this.total_pages = total_pages;//sisoi
 	}
 
 }
